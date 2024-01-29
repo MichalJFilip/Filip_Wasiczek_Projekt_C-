@@ -1,0 +1,94 @@
+C:\Users\michalfilip\Desktop\POGUI\GUI\GUI\obj\Debug\net8.0-windows\GUI.csproj.AssemblyReference.cache
+C:\Users\michalfilip\Desktop\POGUI\GUI\GUI\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\michalfilip\Desktop\POGUI\GUI\GUI\obj\Debug\net8.0-windows\GUI_MarkupCompile.cache
+C:\Users\michalfilip\Desktop\POGUI\GUI\GUI\obj\Debug\net8.0-windows\GUI_MarkupCompile.lref
+C:\Users\michalfilip\Desktop\POGUI\GUI\GUI\bin\Debug\net8.0-windows\GUI.exe
+C:\Users\michalfilip\Desktop\POGUI\GUI\GUI\bin\Debug\net8.0-windows\GUI.deps.json
+C:\Users\michalfilip\Desktop\POGUI\GUI\GUI\bin\Debug\net8.0-windows\GUI.runtimeconfig.json
+C:\Users\michalfilip\Desktop\POGUI\GUI\GUI\bin\Debug\net8.0-windows\GUI.dll
+C:\Users\michalfilip\Desktop\POGUI\GUI\GUI\bin\Debug\net8.0-windows\GUI.pdb
+C:\Users\michalfilip\Desktop\POGUI\GUI\GUI\bin\Debug\net8.0-windows\PO - gra.dll
+C:\Users\michalfilip\Desktop\POGUI\GUI\GUI\bin\Debug\net8.0-windows\PO - gra.pdb
+C:\Users\michalfilip\Desktop\POGUI\GUI\GUI\obj\Debug\net8.0-windows\GUI.g.resources
+C:\Users\michalfilip\Desktop\POGUI\GUI\GUI\obj\Debug\net8.0-windows\GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\michalfilip\Desktop\POGUI\GUI\GUI\obj\Debug\net8.0-windows\GUI.AssemblyInfoInputs.cache
+C:\Users\michalfilip\Desktop\POGUI\GUI\GUI\obj\Debug\net8.0-windows\GUI.AssemblyInfo.cs
+C:\Users\michalfilip\Desktop\POGUI\GUI\GUI\obj\Debug\net8.0-windows\GUI.csproj.CoreCompileInputs.cache
+C:\Users\michalfilip\Desktop\POGUI\GUI\GUI\obj\Debug\net8.0-windows\GUI.csproj.CopyComplete
+C:\Users\michalfilip\Desktop\POGUI\GUI\GUI\obj\Debug\net8.0-windows\GUI.dll
+C:\Users\michalfilip\Desktop\POGUI\GUI\GUI\obj\Debug\net8.0-windows\refint\GUI.dll
+C:\Users\michalfilip\Desktop\POGUI\GUI\GUI\obj\Debug\net8.0-windows\GUI.pdb
+C:\Users\michalfilip\Desktop\POGUI\GUI\GUI\obj\Debug\net8.0-windows\GUI.genruntimeconfig.cache
+C:\Users\michalfilip\Desktop\POGUI\GUI\GUI\obj\Debug\net8.0-windows\ref\GUI.dll
+C:\Users\michalfilip\Desktop\POGUI\GUI\GUI\obj\Debug\net8.0-windows\DifficultyWindow.g.cs
+C:\Users\michalfilip\Desktop\POGUI\GUI\GUI\obj\Debug\net8.0-windows\FightWindow.g.cs
+C:\Users\michalfilip\Desktop\POGUI\GUI\GUI\obj\Debug\net8.0-windows\DifficultyWindow.baml
+C:\Users\michalfilip\Desktop\POGUI\GUI\GUI\obj\Debug\net8.0-windows\FightWindow.baml
+C:\Users\michalfilip\Desktop\POGUI\GUI\GUI\obj\Debug\net8.0-windows\CharacterCreation.g.cs
+C:\Users\michalfilip\Desktop\POGUI\GUI\GUI\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\michalfilip\Desktop\POGUI\GUI\GUI\obj\Debug\net8.0-windows\CharacterCreation.baml
+C:\Users\michalfilip\Desktop\POGUI\GUI\GUI\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\michalfilip\Desktop\PO - Gra Tesktowa\GUI\GUI\obj\Debug\net8.0-windows\CharacterCreation.g.cs
+C:\Users\michalfilip\Desktop\PO - Gra Tesktowa\GUI\GUI\obj\Debug\net8.0-windows\DifficultyWindow.g.cs
+C:\Users\michalfilip\Desktop\PO - Gra Tesktowa\GUI\GUI\obj\Debug\net8.0-windows\FightWindow.g.cs
+C:\Users\michalfilip\Desktop\PO - Gra Tesktowa\GUI\GUI\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\michalfilip\Desktop\PO - Gra Tesktowa\GUI\GUI\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\michalfilip\Desktop\PO - Gra Tesktowa\GUI\GUI\obj\Debug\net8.0-windows\GUI_MarkupCompile.cache
+C:\Users\michalfilip\Desktop\PO - Gra Tesktowa\GUI\GUI\obj\Debug\net8.0-windows\GUI_MarkupCompile.lref
+C:\Users\michalfilip\Desktop\PO - Gra Tesktowa\GUI\GUI\obj\Debug\net8.0-windows\GUI.dll
+C:\Users\michalfilip\Desktop\PO - Gra Tesktowa\GUI\GUI\obj\Debug\net8.0-windows\refint\GUI.dll
+C:\Users\michalfilip\Desktop\PO - Gra Tesktowa\GUI\GUI\obj\Debug\net8.0-windows\GUI.pdb
+C:\Users\michalfilip\Desktop\PO - Gra Tesktowa\GUI\GUI\obj\Debug\net8.0-windows\GUI.csproj.AssemblyReference.cache
+C:\Users\michalfilip\Desktop\PO - Gra Tesktowa\GUI\GUI\bin\Debug\net8.0-windows\GUI.exe
+C:\Users\michalfilip\Desktop\PO - Gra Tesktowa\GUI\GUI\bin\Debug\net8.0-windows\GUI.deps.json
+C:\Users\michalfilip\Desktop\PO - Gra Tesktowa\GUI\GUI\bin\Debug\net8.0-windows\GUI.runtimeconfig.json
+C:\Users\michalfilip\Desktop\PO - Gra Tesktowa\GUI\GUI\bin\Debug\net8.0-windows\GUI.dll
+C:\Users\michalfilip\Desktop\PO - Gra Tesktowa\GUI\GUI\bin\Debug\net8.0-windows\GUI.pdb
+C:\Users\michalfilip\Desktop\PO - Gra Tesktowa\GUI\GUI\bin\Debug\net8.0-windows\PO - gra.dll
+C:\Users\michalfilip\Desktop\PO - Gra Tesktowa\GUI\GUI\bin\Debug\net8.0-windows\PO - gra.pdb
+C:\Users\michalfilip\Desktop\PO - Gra Tesktowa\GUI\GUI\obj\Debug\net8.0-windows\CharacterCreation.baml
+C:\Users\michalfilip\Desktop\PO - Gra Tesktowa\GUI\GUI\obj\Debug\net8.0-windows\DifficultyWindow.baml
+C:\Users\michalfilip\Desktop\PO - Gra Tesktowa\GUI\GUI\obj\Debug\net8.0-windows\FightWindow.baml
+C:\Users\michalfilip\Desktop\PO - Gra Tesktowa\GUI\GUI\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\michalfilip\Desktop\PO - Gra Tesktowa\GUI\GUI\obj\Debug\net8.0-windows\GUI.g.resources
+C:\Users\michalfilip\Desktop\PO - Gra Tesktowa\GUI\GUI\obj\Debug\net8.0-windows\GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\michalfilip\Desktop\PO - Gra Tesktowa\GUI\GUI\obj\Debug\net8.0-windows\GUI.AssemblyInfoInputs.cache
+C:\Users\michalfilip\Desktop\PO - Gra Tesktowa\GUI\GUI\obj\Debug\net8.0-windows\GUI.AssemblyInfo.cs
+C:\Users\michalfilip\Desktop\PO - Gra Tesktowa\GUI\GUI\obj\Debug\net8.0-windows\GUI.csproj.CoreCompileInputs.cache
+C:\Users\michalfilip\Desktop\PO - Gra Tesktowa\GUI\GUI\obj\Debug\net8.0-windows\GUI.csproj.CopyComplete
+C:\Users\michalfilip\Desktop\PO - Gra Tesktowa\GUI\GUI\obj\Debug\net8.0-windows\GUI.genruntimeconfig.cache
+C:\Users\michalfilip\Desktop\PO - Gra Tesktowa\GUI\GUI\obj\Debug\net8.0-windows\ref\GUI.dll
+C:\Users\qbawa\Desktop\PO - Gra Tesktowa\GUI\GUI\bin\Debug\net8.0-windows\GUI.exe
+C:\Users\qbawa\Desktop\PO - Gra Tesktowa\GUI\GUI\bin\Debug\net8.0-windows\GUI.deps.json
+C:\Users\qbawa\Desktop\PO - Gra Tesktowa\GUI\GUI\bin\Debug\net8.0-windows\GUI.runtimeconfig.json
+C:\Users\qbawa\Desktop\PO - Gra Tesktowa\GUI\GUI\bin\Debug\net8.0-windows\GUI.dll
+C:\Users\qbawa\Desktop\PO - Gra Tesktowa\GUI\GUI\bin\Debug\net8.0-windows\GUI.pdb
+C:\Users\qbawa\Desktop\PO - Gra Tesktowa\GUI\GUI\bin\Debug\net8.0-windows\PO - gra.dll
+C:\Users\qbawa\Desktop\PO - Gra Tesktowa\GUI\GUI\bin\Debug\net8.0-windows\PO - gra.pdb
+C:\Users\qbawa\Desktop\PO - Gra Tesktowa\GUI\GUI\obj\Debug\net8.0-windows\GUI.csproj.AssemblyReference.cache
+C:\Users\qbawa\Desktop\PO - Gra Tesktowa\GUI\GUI\obj\Debug\net8.0-windows\CharacterCreation.g.cs
+C:\Users\qbawa\Desktop\PO - Gra Tesktowa\GUI\GUI\obj\Debug\net8.0-windows\DifficultyWindow.g.cs
+C:\Users\qbawa\Desktop\PO - Gra Tesktowa\GUI\GUI\obj\Debug\net8.0-windows\FightWindow.g.cs
+C:\Users\qbawa\Desktop\PO - Gra Tesktowa\GUI\GUI\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\qbawa\Desktop\PO - Gra Tesktowa\GUI\GUI\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\qbawa\Desktop\PO - Gra Tesktowa\GUI\GUI\obj\Debug\net8.0-windows\GUI_MarkupCompile.cache
+C:\Users\qbawa\Desktop\PO - Gra Tesktowa\GUI\GUI\obj\Debug\net8.0-windows\GUI_MarkupCompile.lref
+C:\Users\qbawa\Desktop\PO - Gra Tesktowa\GUI\GUI\obj\Debug\net8.0-windows\CharacterCreation.baml
+C:\Users\qbawa\Desktop\PO - Gra Tesktowa\GUI\GUI\obj\Debug\net8.0-windows\DifficultyWindow.baml
+C:\Users\qbawa\Desktop\PO - Gra Tesktowa\GUI\GUI\obj\Debug\net8.0-windows\FightWindow.baml
+C:\Users\qbawa\Desktop\PO - Gra Tesktowa\GUI\GUI\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\qbawa\Desktop\PO - Gra Tesktowa\GUI\GUI\obj\Debug\net8.0-windows\GUI.g.resources
+C:\Users\qbawa\Desktop\PO - Gra Tesktowa\GUI\GUI\obj\Debug\net8.0-windows\GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\qbawa\Desktop\PO - Gra Tesktowa\GUI\GUI\obj\Debug\net8.0-windows\GUI.AssemblyInfoInputs.cache
+C:\Users\qbawa\Desktop\PO - Gra Tesktowa\GUI\GUI\obj\Debug\net8.0-windows\GUI.AssemblyInfo.cs
+C:\Users\qbawa\Desktop\PO - Gra Tesktowa\GUI\GUI\obj\Debug\net8.0-windows\GUI.csproj.CoreCompileInputs.cache
+C:\Users\qbawa\Desktop\PO - Gra Tesktowa\GUI\GUI\obj\Debug\net8.0-windows\GUI.csproj.CopyComplete
+C:\Users\qbawa\Desktop\PO - Gra Tesktowa\GUI\GUI\obj\Debug\net8.0-windows\GUI.dll
+C:\Users\qbawa\Desktop\PO - Gra Tesktowa\GUI\GUI\obj\Debug\net8.0-windows\refint\GUI.dll
+C:\Users\qbawa\Desktop\PO - Gra Tesktowa\GUI\GUI\obj\Debug\net8.0-windows\GUI.pdb
+C:\Users\qbawa\Desktop\PO - Gra Tesktowa\GUI\GUI\obj\Debug\net8.0-windows\GUI.genruntimeconfig.cache
+C:\Users\qbawa\Desktop\PO - Gra Tesktowa\GUI\GUI\obj\Debug\net8.0-windows\ref\GUI.dll
+C:\Users\qbawa\Desktop\PO - Gra Tesktowa\GUI\GUI\obj\Debug\net8.0-windows\LocationSelectionWindow.g.cs
+C:\Users\qbawa\Desktop\PO - Gra Tesktowa\GUI\GUI\obj\Debug\net8.0-windows\LocationSelectionWindow.baml
+C:\Users\qbawa\Desktop\PO - Gra Tesktowa\GUI\GUI\obj\Debug\net8.0-windows\PlayerEQ.g.cs
+C:\Users\qbawa\Desktop\PO - Gra Tesktowa\GUI\GUI\obj\Debug\net8.0-windows\PlayerEQ.baml
