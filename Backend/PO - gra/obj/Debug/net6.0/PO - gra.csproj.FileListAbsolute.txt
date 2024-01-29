@@ -1,0 +1,98 @@
+C:\Users\qbawa\Desktop\PO\PO - gra\PO - gra\bin\Debug\net6.0\PO - gra.exe
+C:\Users\qbawa\Desktop\PO\PO - gra\PO - gra\bin\Debug\net6.0\PO - gra.deps.json
+C:\Users\qbawa\Desktop\PO\PO - gra\PO - gra\bin\Debug\net6.0\PO - gra.runtimeconfig.json
+C:\Users\qbawa\Desktop\PO\PO - gra\PO - gra\bin\Debug\net6.0\PO - gra.dll
+C:\Users\qbawa\Desktop\PO\PO - gra\PO - gra\bin\Debug\net6.0\PO - gra.pdb
+C:\Users\qbawa\Desktop\PO\PO - gra\PO - gra\obj\Debug\net6.0\PO - gra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\qbawa\Desktop\PO\PO - gra\PO - gra\obj\Debug\net6.0\PO - gra.AssemblyInfoInputs.cache
+C:\Users\qbawa\Desktop\PO\PO - gra\PO - gra\obj\Debug\net6.0\PO - gra.AssemblyInfo.cs
+C:\Users\qbawa\Desktop\PO\PO - gra\PO - gra\obj\Debug\net6.0\PO - gra.csproj.CoreCompileInputs.cache
+C:\Users\qbawa\Desktop\PO\PO - gra\PO - gra\obj\Debug\net6.0\PO - gra.dll
+C:\Users\qbawa\Desktop\PO\PO - gra\PO - gra\obj\Debug\net6.0\refint\PO - gra.dll
+C:\Users\qbawa\Desktop\PO\PO - gra\PO - gra\obj\Debug\net6.0\PO - gra.pdb
+C:\Users\qbawa\Desktop\PO\PO - gra\PO - gra\obj\Debug\net6.0\PO - gra.genruntimeconfig.cache
+C:\Users\qbawa\Desktop\PO\PO - gra\PO - gra\obj\Debug\net6.0\ref\PO - gra.dll
+C:\Users\michalfilip\Desktop\PO\PO - gra\PO - gra\bin\Debug\net6.0\PO - gra.exe
+C:\Users\michalfilip\Desktop\PO\PO - gra\PO - gra\bin\Debug\net6.0\PO - gra.deps.json
+C:\Users\michalfilip\Desktop\PO\PO - gra\PO - gra\bin\Debug\net6.0\PO - gra.runtimeconfig.json
+C:\Users\michalfilip\Desktop\PO\PO - gra\PO - gra\bin\Debug\net6.0\PO - gra.dll
+C:\Users\michalfilip\Desktop\PO\PO - gra\PO - gra\bin\Debug\net6.0\PO - gra.pdb
+C:\Users\michalfilip\Desktop\PO\PO - gra\PO - gra\obj\Debug\net6.0\PO - gra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\michalfilip\Desktop\PO\PO - gra\PO - gra\obj\Debug\net6.0\PO - gra.AssemblyInfoInputs.cache
+C:\Users\michalfilip\Desktop\PO\PO - gra\PO - gra\obj\Debug\net6.0\PO - gra.AssemblyInfo.cs
+C:\Users\michalfilip\Desktop\PO\PO - gra\PO - gra\obj\Debug\net6.0\PO - gra.csproj.CoreCompileInputs.cache
+C:\Users\michalfilip\Desktop\PO\PO - gra\PO - gra\obj\Debug\net6.0\PO - gra.dll
+C:\Users\michalfilip\Desktop\PO\PO - gra\PO - gra\obj\Debug\net6.0\refint\PO - gra.dll
+C:\Users\michalfilip\Desktop\PO\PO - gra\PO - gra\obj\Debug\net6.0\PO - gra.pdb
+C:\Users\michalfilip\Desktop\PO\PO - gra\PO - gra\obj\Debug\net6.0\PO - gra.genruntimeconfig.cache
+C:\Users\michalfilip\Desktop\PO\PO - gra\PO - gra\obj\Debug\net6.0\ref\PO - gra.dll
+C:\Users\michalfilip\Desktop\PO_nowe\PO - gra\PO - gra\bin\Debug\net6.0\PO - gra.exe
+C:\Users\michalfilip\Desktop\PO_nowe\PO - gra\PO - gra\bin\Debug\net6.0\PO - gra.deps.json
+C:\Users\michalfilip\Desktop\PO_nowe\PO - gra\PO - gra\bin\Debug\net6.0\PO - gra.runtimeconfig.json
+C:\Users\michalfilip\Desktop\PO_nowe\PO - gra\PO - gra\bin\Debug\net6.0\PO - gra.dll
+C:\Users\michalfilip\Desktop\PO_nowe\PO - gra\PO - gra\bin\Debug\net6.0\PO - gra.pdb
+C:\Users\michalfilip\Desktop\PO_nowe\PO - gra\PO - gra\obj\Debug\net6.0\PO - gra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\michalfilip\Desktop\PO_nowe\PO - gra\PO - gra\obj\Debug\net6.0\PO - gra.AssemblyInfoInputs.cache
+C:\Users\michalfilip\Desktop\PO_nowe\PO - gra\PO - gra\obj\Debug\net6.0\PO - gra.AssemblyInfo.cs
+C:\Users\michalfilip\Desktop\PO_nowe\PO - gra\PO - gra\obj\Debug\net6.0\PO - gra.csproj.CoreCompileInputs.cache
+C:\Users\michalfilip\Desktop\PO_nowe\PO - gra\PO - gra\obj\Debug\net6.0\PO - gra.dll
+C:\Users\michalfilip\Desktop\PO_nowe\PO - gra\PO - gra\obj\Debug\net6.0\refint\PO - gra.dll
+C:\Users\michalfilip\Desktop\PO_nowe\PO - gra\PO - gra\obj\Debug\net6.0\PO - gra.pdb
+C:\Users\michalfilip\Desktop\PO_nowe\PO - gra\PO - gra\obj\Debug\net6.0\PO - gra.genruntimeconfig.cache
+C:\Users\michalfilip\Desktop\PO_nowe\PO - gra\PO - gra\obj\Debug\net6.0\ref\PO - gra.dll
+C:\Users\qbawa\Desktop\PO_nowe\PO - gra\PO - gra\bin\Debug\net6.0\PO - gra.exe
+C:\Users\qbawa\Desktop\PO_nowe\PO - gra\PO - gra\bin\Debug\net6.0\PO - gra.deps.json
+C:\Users\qbawa\Desktop\PO_nowe\PO - gra\PO - gra\bin\Debug\net6.0\PO - gra.runtimeconfig.json
+C:\Users\qbawa\Desktop\PO_nowe\PO - gra\PO - gra\bin\Debug\net6.0\PO - gra.dll
+C:\Users\qbawa\Desktop\PO_nowe\PO - gra\PO - gra\bin\Debug\net6.0\PO - gra.pdb
+C:\Users\qbawa\Desktop\PO_nowe\PO - gra\PO - gra\obj\Debug\net6.0\PO - gra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\qbawa\Desktop\PO_nowe\PO - gra\PO - gra\obj\Debug\net6.0\PO - gra.AssemblyInfoInputs.cache
+C:\Users\qbawa\Desktop\PO_nowe\PO - gra\PO - gra\obj\Debug\net6.0\PO - gra.AssemblyInfo.cs
+C:\Users\qbawa\Desktop\PO_nowe\PO - gra\PO - gra\obj\Debug\net6.0\PO - gra.csproj.CoreCompileInputs.cache
+C:\Users\qbawa\Desktop\PO_nowe\PO - gra\PO - gra\obj\Debug\net6.0\PO - gra.dll
+C:\Users\qbawa\Desktop\PO_nowe\PO - gra\PO - gra\obj\Debug\net6.0\refint\PO - gra.dll
+C:\Users\qbawa\Desktop\PO_nowe\PO - gra\PO - gra\obj\Debug\net6.0\PO - gra.pdb
+C:\Users\qbawa\Desktop\PO_nowe\PO - gra\PO - gra\obj\Debug\net6.0\PO - gra.genruntimeconfig.cache
+C:\Users\qbawa\Desktop\PO_nowe\PO - gra\PO - gra\obj\Debug\net6.0\ref\PO - gra.dll
+C:\Users\michalfilip\Desktop\PO_nowe\PO_nowe\PO - gra\PO - gra\bin\Debug\net6.0\PO - gra.exe
+C:\Users\michalfilip\Desktop\PO_nowe\PO_nowe\PO - gra\PO - gra\bin\Debug\net6.0\PO - gra.deps.json
+C:\Users\michalfilip\Desktop\PO_nowe\PO_nowe\PO - gra\PO - gra\bin\Debug\net6.0\PO - gra.runtimeconfig.json
+C:\Users\michalfilip\Desktop\PO_nowe\PO_nowe\PO - gra\PO - gra\bin\Debug\net6.0\PO - gra.dll
+C:\Users\michalfilip\Desktop\PO_nowe\PO_nowe\PO - gra\PO - gra\bin\Debug\net6.0\PO - gra.pdb
+C:\Users\michalfilip\Desktop\PO_nowe\PO_nowe\PO - gra\PO - gra\obj\Debug\net6.0\PO - gra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\michalfilip\Desktop\PO_nowe\PO_nowe\PO - gra\PO - gra\obj\Debug\net6.0\PO - gra.AssemblyInfoInputs.cache
+C:\Users\michalfilip\Desktop\PO_nowe\PO_nowe\PO - gra\PO - gra\obj\Debug\net6.0\PO - gra.AssemblyInfo.cs
+C:\Users\michalfilip\Desktop\PO_nowe\PO_nowe\PO - gra\PO - gra\obj\Debug\net6.0\PO - gra.csproj.CoreCompileInputs.cache
+C:\Users\michalfilip\Desktop\PO_nowe\PO_nowe\PO - gra\PO - gra\obj\Debug\net6.0\PO - gra.dll
+C:\Users\michalfilip\Desktop\PO_nowe\PO_nowe\PO - gra\PO - gra\obj\Debug\net6.0\refint\PO - gra.dll
+C:\Users\michalfilip\Desktop\PO_nowe\PO_nowe\PO - gra\PO - gra\obj\Debug\net6.0\PO - gra.pdb
+C:\Users\michalfilip\Desktop\PO_nowe\PO_nowe\PO - gra\PO - gra\obj\Debug\net6.0\PO - gra.genruntimeconfig.cache
+C:\Users\michalfilip\Desktop\PO_nowe\PO_nowe\PO - gra\PO - gra\obj\Debug\net6.0\ref\PO - gra.dll
+C:\Users\michalfilip\Desktop\PO - Gra Tesktowa\Backend\PO - gra\PO - gra\bin\Debug\net6.0\PO - gra.exe
+C:\Users\michalfilip\Desktop\PO - Gra Tesktowa\Backend\PO - gra\PO - gra\bin\Debug\net6.0\PO - gra.deps.json
+C:\Users\michalfilip\Desktop\PO - Gra Tesktowa\Backend\PO - gra\PO - gra\bin\Debug\net6.0\PO - gra.runtimeconfig.json
+C:\Users\michalfilip\Desktop\PO - Gra Tesktowa\Backend\PO - gra\PO - gra\bin\Debug\net6.0\PO - gra.dll
+C:\Users\michalfilip\Desktop\PO - Gra Tesktowa\Backend\PO - gra\PO - gra\bin\Debug\net6.0\PO - gra.pdb
+C:\Users\michalfilip\Desktop\PO - Gra Tesktowa\Backend\PO - gra\PO - gra\obj\Debug\net6.0\PO - gra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\michalfilip\Desktop\PO - Gra Tesktowa\Backend\PO - gra\PO - gra\obj\Debug\net6.0\PO - gra.AssemblyInfoInputs.cache
+C:\Users\michalfilip\Desktop\PO - Gra Tesktowa\Backend\PO - gra\PO - gra\obj\Debug\net6.0\PO - gra.AssemblyInfo.cs
+C:\Users\michalfilip\Desktop\PO - Gra Tesktowa\Backend\PO - gra\PO - gra\obj\Debug\net6.0\PO - gra.csproj.CoreCompileInputs.cache
+C:\Users\michalfilip\Desktop\PO - Gra Tesktowa\Backend\PO - gra\PO - gra\obj\Debug\net6.0\PO - gra.dll
+C:\Users\michalfilip\Desktop\PO - Gra Tesktowa\Backend\PO - gra\PO - gra\obj\Debug\net6.0\refint\PO - gra.dll
+C:\Users\michalfilip\Desktop\PO - Gra Tesktowa\Backend\PO - gra\PO - gra\obj\Debug\net6.0\PO - gra.pdb
+C:\Users\michalfilip\Desktop\PO - Gra Tesktowa\Backend\PO - gra\PO - gra\obj\Debug\net6.0\PO - gra.genruntimeconfig.cache
+C:\Users\michalfilip\Desktop\PO - Gra Tesktowa\Backend\PO - gra\PO - gra\obj\Debug\net6.0\ref\PO - gra.dll
+C:\Users\qbawa\Desktop\PO - Gra Tesktowa\Backend\PO - gra\PO - gra\bin\Debug\net6.0\PO - gra.exe
+C:\Users\qbawa\Desktop\PO - Gra Tesktowa\Backend\PO - gra\PO - gra\bin\Debug\net6.0\PO - gra.deps.json
+C:\Users\qbawa\Desktop\PO - Gra Tesktowa\Backend\PO - gra\PO - gra\bin\Debug\net6.0\PO - gra.runtimeconfig.json
+C:\Users\qbawa\Desktop\PO - Gra Tesktowa\Backend\PO - gra\PO - gra\bin\Debug\net6.0\PO - gra.dll
+C:\Users\qbawa\Desktop\PO - Gra Tesktowa\Backend\PO - gra\PO - gra\bin\Debug\net6.0\PO - gra.pdb
+C:\Users\qbawa\Desktop\PO - Gra Tesktowa\Backend\PO - gra\PO - gra\obj\Debug\net6.0\PO - gra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\qbawa\Desktop\PO - Gra Tesktowa\Backend\PO - gra\PO - gra\obj\Debug\net6.0\PO - gra.AssemblyInfoInputs.cache
+C:\Users\qbawa\Desktop\PO - Gra Tesktowa\Backend\PO - gra\PO - gra\obj\Debug\net6.0\PO - gra.AssemblyInfo.cs
+C:\Users\qbawa\Desktop\PO - Gra Tesktowa\Backend\PO - gra\PO - gra\obj\Debug\net6.0\PO - gra.csproj.CoreCompileInputs.cache
+C:\Users\qbawa\Desktop\PO - Gra Tesktowa\Backend\PO - gra\PO - gra\obj\Debug\net6.0\PO - gra.dll
+C:\Users\qbawa\Desktop\PO - Gra Tesktowa\Backend\PO - gra\PO - gra\obj\Debug\net6.0\refint\PO - gra.dll
+C:\Users\qbawa\Desktop\PO - Gra Tesktowa\Backend\PO - gra\PO - gra\obj\Debug\net6.0\PO - gra.pdb
+C:\Users\qbawa\Desktop\PO - Gra Tesktowa\Backend\PO - gra\PO - gra\obj\Debug\net6.0\PO - gra.genruntimeconfig.cache
+C:\Users\qbawa\Desktop\PO - Gra Tesktowa\Backend\PO - gra\PO - gra\obj\Debug\net6.0\ref\PO - gra.dll
